@@ -1,0 +1,33 @@
+body {
+    background: #181818;
+}
+
+h1 {
+    background: #111;
+    border-bottom: 3px solid #C43535;
+}
+
+
+#logo {
+    color: #EDEDED;
+}
+
+#navBar li {
+    color: #EDEDED;
+}
+
+.selected, #navBar a:hover {
+    background: #C43535;
+}
+
+#navBar a {
+    color: #EDEDED;
+}
+
+.frame {
+	background: #111;
+}
+
+#menu {
+	background: #111;
+}

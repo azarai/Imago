@@ -1,0 +1,32 @@
+body {
+    background: url('img/bg.jpg');
+}
+
+.imago_thumbImg {
+    border: 5px solid #222;
+}
+
+.imago_selectedThumb {
+    border: 5px solid #EDEDED;
+}
+
+#sideBarMenu {
+	background: #111;
+}
+
+#sideBarContent {
+	background: #111;
+}
+
+.sideBarTabClosed {
+	background: #111 url('img/open.png') no-repeat center center;
+}
+
+.sideBarTabOpen {
+	background: #111 url('img/close.png') no-repeat center center;
+}
+
+#imagoCurrentImg {
+	border: 10px solid #111;
+}
+    

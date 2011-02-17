@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewerGallery maxImageHeight="1024" maxImageWidth="1024" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="20" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Madeira" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath="images/" ><image>
+
+	<filename>pict1620.jpg</filename>
+
+	<caption></caption>
+
+</image>
+<image>
+
+	<filename>pict0517.jpg</filename>
+
+	<caption>Cabo Girão</caption>
+
+</image>
+<image>
+
+	<filename>pict1398.jpg</filename>
+
+	<caption>Cabo Girão</caption>
+
+</image><image>
+
+	<filename>pict1447.jpg</filename>
+
+	<caption>Ponta do Rosto</caption>
+
+</image><image>
+
+	<filename>pict0533.jpg</filename>
+
+	<caption>Ponta do Rosto</caption>
+
+</image><image>
+
+	<filename>pict0538.jpg</filename>
+
+	<caption>Traditionelles Bauernhaus in Santana</caption>
+
+</image><image>
+
+	<filename>pict1466.jpg</filename>
+
+	<caption>Vigia, Sao Jorge</caption>
+
+</image><image>
+
+	<filename>pict0587.jpg</filename>
+
+	<caption>Relaxen pur, Porto Santo</caption>
+
+</image></simpleviewerGallery>

@@ -1,0 +1,54 @@
+body {
+    background: url('img/bg.jpg');
+}
+
+h1 {
+    background: url('img/header.png');
+    border-bottom: 3px solid #111;
+}
+
+
+#logo {
+    color: #EDEDED;
+}
+
+#navBar li {
+    color: #EDEDED;
+}
+
+.imago_thumbImg {
+    border: 5px solid #222;
+}
+
+.imago_selectedThumb {
+    border: 5px solid #EDEDED;
+}
+
+.selected, #navBar a:hover {
+    background: #111;
+}
+
+#navBar a {
+    color: #EDEDED;
+}
+
+#sideBarMenu {
+	background: #111;
+}
+
+#sideBarContent {
+	background: #111;
+}
+
+.sideBarTabClosed {
+	background: #111 url('img/open.png') no-repeat center center;
+}
+
+.sideBarTabOpen {
+	background: #111 url('img/close.png') no-repeat center center;
+}
+
+#imagoCurrentImg {
+	border: 10px solid #111;
+}
+    
